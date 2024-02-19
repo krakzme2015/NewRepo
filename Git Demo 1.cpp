@@ -9,4 +9,7 @@ int main()
 
 	int c = 25, d = 11;
 	cout << "Addition2 = " << c + d << endl;
+
+	int e = 5, f = 16;
+	cout << "Addition3 =" << e + f << endl;
 }
